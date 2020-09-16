@@ -1,4 +1,4 @@
-# document_clustering_using_KMeans
+# Document_clustering_using_KMeans
 observing behaviour of <b>KMeans clustering algorithm</b> on a real-world text documents dataset.
 
 ## Info
