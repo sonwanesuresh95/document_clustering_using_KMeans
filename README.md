@@ -26,10 +26,10 @@ $python train_kmeans.py<br>
 </code><br><br>
 
 ## Review : Plots of benchmarks
-### n_clusters vs Training Time
+### Plot of n_clusters vs Training Time
 ![](https://github.com/sonwanesuresh95/document-clustering-using-KMeans/blob/master/images/training%20time.png "training time")
-### n_clusters vs Silhouettes score
+### Plot of n_clusters vs Silhouettes score
 ![](https://github.com/sonwanesuresh95/document-clustering-using-KMeans/blob/master/images/silhouettes%20score.png "silhouettes score")
-### n_clusters vs Inertia
+### Plot of n_clusters vs Inertia
 ![](https://github.com/sonwanesuresh95/document-clustering-using-KMeans/blob/master/images/inertia.png "inertias")
 
